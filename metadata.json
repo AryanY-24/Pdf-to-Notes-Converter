@@ -1,0 +1,5 @@
+{
+  "name": "Copy of PDF to Notes Converter",
+  "description": "A colorful, intelligent PDF to notes converter using Gemini AI for summarization and keyword extraction.",
+  "requestFramePermissions": []
+}
